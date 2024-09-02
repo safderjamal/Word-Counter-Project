@@ -2,7 +2,7 @@
 
 import inquirer from "inquirer";
 
-console.log("\n⅍⅍⅍⅍⅍⅍⅍⅍⅍⅍⅍⅍ <<<< WORD COUNTER >>>>  ⅍⅍⅍⅍⅍⅍⅍⅍⅍⅍⅍⅍\n");
+console.log("\n⅍⅍⅍⅍⅍⅍⅍⅍⅍⅍⅍⅍ <<<< WORD COUNTER PROJECT >>>>  ⅍⅍⅍⅍⅍⅍⅍⅍⅍⅍⅍⅍\n");
 
 const yourSentence: {
     Sentence: string

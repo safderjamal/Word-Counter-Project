@@ -1,6 +1,6 @@
 #! /usr/bin/env node
 import inquirer from "inquirer";
-console.log("\n⅍⅍⅍⅍⅍⅍⅍⅍⅍⅍⅍⅍ <<<< WORD COUNTER >>>>  ⅍⅍⅍⅍⅍⅍⅍⅍⅍⅍⅍⅍\n");
+console.log("\n⅍⅍⅍⅍⅍⅍⅍⅍⅍⅍⅍⅍ <<<< WORD COUNTER PROJECT >>>>  ⅍⅍⅍⅍⅍⅍⅍⅍⅍⅍⅍⅍\n");
 const yourSentence = await inquirer.prompt({
     type: "input",
     message: "Enter Your Sentence Here: ",
