@@ -1,7 +1,7 @@
 {
-  "name": "project05_wordcounter",
+  "name": "sfd-word-counter",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is Word Counter Program",
   "main": "index.js",
   "type": "module",
   "bin": "index.js",
